@@ -1,3 +1,7 @@
+.row g-0 {
+  width: 1940px;
+}
+
 #box {
   width: 565px;
   height: 565px;
@@ -6,45 +10,29 @@
   background: radial-gradient(51.17% 51.78% at 50% 51.17%, #73909C 0%, #204859 100%);
   border: white;
   margin-top: 5%;
-  
 }
 
-.col-md-8{
-/* Cards */
-
-position: relative;
-width: 1240px;
-height: 5519px;
-
-
-
-
-
-
-
+.col-md-8 {
+  /* Cards */
+  position: relative;
+  height: 665px;
+  padding-left: 20%;
 }
 
-
-
-
-#text{
+#text {
   /* Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. */
-  width: 565px;
-
-left: 54.49%;
-right: 7.07%;
-top: 38.48%;
-bottom: 35.65%;
-
-/* Desktop / PopUp / Product-Entry */
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 12px;
-line-height: 17px;
-/* or 142% */
-
-/* Main / Black / 3 */
-color: #7B8093;
-
+  width: 455px;
+  left: 54.49%;
+  right: 7.07%;
+  top: 38.48%;
+  bottom: 35.65%;
+  /* Desktop / PopUp / Product-Entry */
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 17px;
+  /* or 142% */
+  /* Main / Black / 3 */
+  color: #7B8093;
 }

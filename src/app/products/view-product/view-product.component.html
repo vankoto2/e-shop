@@ -1,12 +1,17 @@
-<div class="card mt-4 mb-4">
-  <div class="card-body">
-    <h3 class="card-title">{{ productDetails.title }}</h3>
-
-    <h4>${{ productDetails.price }}</h4>
-    <p class="card-text">{{ productDetails.text }}</p>
-    <span class="text-warning">{{ productDetails.stars }}</span>
-     stars
+<div class="card mb-3" >
+  <div class="row g-0">
+    <div class="col-md-4">
+      <div class="card" id="box"> </div>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{ productDetails.title }}</h5>
+        <p class="card-text"><small class="text-muted">Item #:{{ productDetails.productId }}</small></p>
+        <p class="card-text">Stars{{ productDetails.stars }}</p>
+        <p class="card-text" id="text">{{ productDetails.text }}</p>
+        <p class="card-text">Size{{ productDetails.productId }}</p>
+      </div>
+    </div>
   </div>
 </div>
 <!-- /.card -->
-

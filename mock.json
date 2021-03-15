@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product name 1",
+      "productId": 1,
+      "price": 29.59,
+      "discountPrice": "$ 19.99",
+      "stars": 3,
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
+      "size": "M"
+    }, 
+    {
+      "id": 2,
+      "title": "product name 2",
+      "productId": 2,
+      "price": 32.99,
+      "discountPrice": "$ 26.99",
+      "stars": 3,
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
+      "size": "M"
+    },    
+    {
+      "id": 3,
+      "title": "product name 3",
+      "productId": 3,
+      "price": 9.99,
+      "discountPrice": null,
+      "stars": 3,
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
+      "size": "M"
+    },  
+    {
+      "id": 4,
+      "title": "product name 4",
+      "productId": 4,
+      "price": 52.99,
+      "discountPrice": null,
+      "stars": 3,
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
+      "size": "M"
+    },  
+    {
+      "id": 5,
+      "title": "product name 5",
+      "productId": 5,
+      "price": 69.99,
+      "discountPrice": "$ 39.99",
+      "stars": 3,
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
+      "size": "M"
+    },  
+    {
+      "id": 6,
+      "title": "product name 6",
+      "productId": 6,
+      "price": 34.99,
+      "discountPrice": null,
+      "stars": 3,
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
+      "size": "M"
+    }
+  ]
+}

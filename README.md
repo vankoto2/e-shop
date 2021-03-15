@@ -1,3 +1,27 @@
+## Getting started
+
+Angular CLI: 9.1.12
+
+1. Run 
+
+npm i
+
+2. Install JSON Server.
+
+npm install -g json-server
+
+3. Start JSON Server
+
+json-server --watch mock.json
+
+You should see JSON server running successfully.
+
+4. Run
+
+ng serve --open
+
+
+
 # EShop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.

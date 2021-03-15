@@ -20,7 +20,8 @@ You should see JSON server running successfully.
 
 ng serve --open
 
-
+5. In a browser open
+http://localhost:4200/products
 
 # EShop
 

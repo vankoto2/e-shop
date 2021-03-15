@@ -95,3 +95,24 @@ text-transform: uppercase;
 color: #242633;
 
 }
+
+#exit{
+  text-align:right;
+margin-left: 50%;
+color: #E89806;
+
+/* Ellipse 1 */
+
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+/* Decoration / Yellow / 0 */
+border: 2px solid #E89806;
+box-sizing: border-box;
+border-radius: 100%;
+
+
+}

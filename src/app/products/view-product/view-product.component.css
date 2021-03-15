@@ -14,84 +14,55 @@
 }
 
 .card-body {
-  /* Cards */
   width: 565px;
-
   height: 665px;
   padding: 10%;
 }
 
 #text {
-  /* Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. */
   width: 455px;
   left: 54.49%;
   right: 7.07%;
   top: 38.48%;
   bottom: 35.65%;
-  /* Desktop / PopUp / Product-Entry */
   font-family: Montserrat;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
   line-height: 17px;
-  /* or 142% */
-  /* Main / Black / 3 */
   color: #7B8093;
 }
 
 #add-to{
-  /* Desktop / Buttons / Common */
-
-
-/* Decoration / Yellow / 0 */
 background: #E89806;
 border-radius: 22px;
-
-
-/* Add to cart */
-
-height: 44px;
-left: 260px;
-right: 148px;
-top: calc(50% - 44px/2);
-
-/* Desktop / PopUp / Btn */
+margin-right: 50%;
 font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
 font-size: 14px;
 line-height: 44px;
-/* identical to box height, or 314% */
 display: flex;
 align-items: center;
 text-align: center;
 letter-spacing: 0.7px;
 text-transform: uppercase;
-
-/* Main / Black / 6 */
 color: #EAEAEC;
 
 }
 
 .card-title{
-  /* Product name 2 */
-
 left: 54.49%;
 right: 21.68%;
 top: 4.35%;
 bottom: 90.43%;
-
-/* Desktop / Main / H3 */
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
 font-size: 24px;
 line-height: 24px;
-/* identical to box height, or 100% */
 letter-spacing: -0.2px;
 text-transform: uppercase;
-
-/* Primary / 0 */
 color: #242633;
 
 }
@@ -100,19 +71,12 @@ color: #242633;
   text-align:right;
 margin-left: 50%;
 color: #E89806;
-
-/* Ellipse 1 */
-
 left: 0%;
 right: 0%;
 top: 0%;
 bottom: 0%;
-
 background: #FFFFFF;
-/* Decoration / Yellow / 0 */
 border: 2px solid #E89806;
 box-sizing: border-box;
 border-radius: 100%;
-
-
 }

@@ -5,7 +5,7 @@
       "title": "product name 1",
       "productId": 1,
       "price": 29.59,
-      "discountPrice": "$ 19.99",
+      "discountPrice": "$19.99",
       "stars": 3,
       "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
       "size": "M"
@@ -15,7 +15,7 @@
       "title": "product name 2",
       "productId": 2,
       "price": 32.99,
-      "discountPrice": "$ 26.99",
+      "discountPrice": "$26.99",
       "stars": 3,
       "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
       "size": "M"
@@ -45,7 +45,7 @@
       "title": "product name 5",
       "productId": 5,
       "price": 69.99,
-      "discountPrice": "$ 39.99",
+      "discountPrice": "$39.99",
       "stars": 3,
       "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, tempora quo! Nihil, mollitia. Ea minima repellendus quia! Laboriosam doloribus sequi maiores asperiores eius! Alias possimus asperiores temporibus voluptatum aut iste?",
       "size": "M"

@@ -6,6 +6,7 @@
     background: radial-gradient(51.17% 51.78% at 50% 51.17%, #73909C 0%, #204859 100%);
     border: white;
     margin-top: 5%;
+    border-radius: 0px
 }
 
 .test {
